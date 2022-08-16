@@ -25,22 +25,10 @@ O consumidor no geral tem um importante papel quando o assunto é dar um retorno
 
 <div class="main">
     <a href="#">
-      <img alt="logo-javascript" aling="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      <img alt="logo-python" aling="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     </a>
     <a href="#">
-      <img alt="logo-node" aling="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    </a>
-    <a href="#">
-      <img alt="logo-bootstrap" aling="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    </a>
-    <a href="#">
-      <img alt="logo-html" aling="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    </a>
-    <a href="#">
-      <img alt="logo-css" aling="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    </a>
-    <a href="#">
-      <img alt="logo-jquery" aling="center" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+      <img alt="logo-html" aling="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     </a>
 </div>
 
@@ -49,11 +37,7 @@ O consumidor no geral tem um importante papel quando o assunto é dar um retorno
 
 Caso queira ter um clone desse repositório para praticar, desenvolver ou até ajudar a melhorar, pode iniciar seu projeto da seguinte forma em sua máquina:
 
-- Clone o repositório: `git clone https://github.com/jeffalves33/Desafio---TutorMundi.git`
-- Instale as dependências: `npm i` ou `npm install`
-- Inicie a aplicação: `npm run dev`
-- Abra a porta no navegador: [localhost:3000](https://localhost:3000)
-- divirta-se!
+- Clone o repositório: `git clone https://github.com/jeffalves33/Meteorologia.git`
 
 
 ## What the repository offers
@@ -73,7 +57,8 @@ Esse é um projeto de nível iniciante e básico. Não se detenha à documentaç
 
 ## Upcoming Updates
 
-* inserir o backend;
+* melhorar interface;
+* inserir o backend mais compacto;
 * melhorar a experiência do usuário;
 * aprimorar para leitores de tela;
 * adicionar mensagens opcionais;
